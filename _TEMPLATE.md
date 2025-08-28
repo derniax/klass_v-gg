@@ -1,7 +1,7 @@
-# [Github konto namn]
+# [Derniax]
 
-**Min favorit teknologi:** (t.ex. ett programmeringsspråk, sak, pryl eller uppfinning)
+**Min favorit teknologi:** Dator 
 
-**Mitt mål med kursen:** (t.ex. att lära mig Linux, se en robot)
+**Mitt mål med kursen:** Lära mig att koda och nya saker.
 
-**En rolig fakt:** (t.ex. Jag läste rubriks kub en gång eller den där gång jag återföddes som en slime)
+**En rolig fakt:** CS faceit lvl 10
